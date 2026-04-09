@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Jolly Roger Custom Woodworking",
+    "phone": "+17578696326",
+    "category": "carpenter",
+    "city": "Virginia Beach",
+    "state": "VA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Crafting Virginia Beach, One Project at a Time.",
+      "heroSubline": "Jolly Roger Custom Woodworking delivers unmatched carpentry services across Virginia Beach. From coastal renovations to custom builds, we're your trusted local experts.",
+      "aboutTitle": "Built on Craftsmanship, Rooted in Virginia Beach",
+      "aboutText": [
+        "Jolly Roger Custom Woodworking started with a simple mission: to bring exceptional carpentry to Virginia Beach. We're not just builders; we're craftsmen who take pride in every nail, every joint, and every finished detail. Our founder, a Virginia Beach native, understood the unique challenges and opportunities of building in this coastal environment.",
+        "Our approach is simple: listen to our clients, understand their vision, and deliver results that exceed expectations. We believe in open communication, transparent pricing, and unwavering commitment to quality. We treat every project, big or small, with the same level of care and attention to detail.",
+        "We're proud to be a part of the Virginia Beach community. We support local businesses, participate in community events, and strive to make a positive impact on the city we call home. When you choose Jolly Roger Custom Woodworking, you're choosing a company that's invested in your satisfaction and the well-being of our community."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We know Virginia Beach architecture, weather, and building codes inside and out."
+        },
+        {
+          "title": "Custom Solutions",
+          "description": "From design to completion, we tailor our services to your unique needs and preferences."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We source only the finest lumber and hardware to ensure lasting beauty and durability."
+        },
+        {
+          "title": "Skilled Craftsmanship",
+          "description": "Our team of experienced carpenters delivers precision and artistry in every project."
+        }
+      ],
+      "ctaHeadline": "Start Your Project Today",
+      "ctaSubline": "Get a free quote and discover how Jolly Roger Custom Woodworking can bring your vision to life."
+    },
+    "services": [
+      {
+        "slug": "custom-cabinetry",
+        "name": "Custom Cabinetry",
+        "shortDescription": "Elevate your home with handcrafted, custom cabinets designed to fit your style and space.",
+        "description": "Jolly Roger Custom Woodworking specializes in crafting custom cabinetry that seamlessly blends functionality and aesthetics. We understand that cabinetry is more than just storage; it's an integral part of your home's design. Whether you're renovating your kitchen, updating your bathroom, or adding built-ins to your living room, we'll work closely with you to create cabinets that meet your exact needs and preferences.\n\nWe use only the finest hardwoods and materials, ensuring lasting beauty and durability. Our skilled craftsmen employ time-honored techniques to create cabinets that are not only beautiful but also built to withstand the rigors of daily use. From traditional styles to modern designs, we can create custom cabinetry that reflects your unique personality and enhances your home's value.\n\nConsidering the coastal climate of Virginia Beach, we pay special attention to moisture resistance and durability. We offer a range of finishes and sealants that protect your cabinets from the elements, ensuring they remain beautiful for years to come. Let Jolly Roger Custom Woodworking transform your space with custom cabinetry that is both functional and stunning.",
+        "process": [
+          "Step 1: Consultation and Design – We discuss your needs, preferences, and budget to create a custom design.",
+          "Step 2: Material Selection – We help you choose the perfect hardwoods, finishes, and hardware.",
+          "Step 3: Fabrication – Our skilled craftsmen meticulously build your cabinets to exacting standards.",
+          "Step 4: Installation – We carefully install your cabinets, ensuring a perfect fit and finish."
+        ],
+        "benefits": [
+          "Maximize your storage space",
+          "Enhance your home's aesthetic appeal",
+          "Increase your home's value",
+          "Create a custom look that reflects your style"
+        ],
+        "faq": [
+          {
+            "question": "What types of wood do you use for custom cabinetry?",
+            "answer": "We use a variety of hardwoods, including oak, maple, cherry, and walnut. We can also source specialty woods upon request."
+          },
+          {
+            "question": "How long does it take to complete a custom cabinetry project?",
+            "answer": "The timeline varies depending on the size and complexity of the project. We'll provide you with a detailed timeline during the consultation phase."
+          },
+          {
+            "question": "Do you offer cabinet refacing services?",
+            "answer": "Yes, we offer cabinet refacing as a cost-effective way to update your kitchen or bathroom without replacing your existing cabinets."
+          }
+        ]
+      },
+      {
+        "slug": "deck-and-porch-construction",
+        "name": "Deck & Porch Construction",
+        "shortDescription": "Extend your living space outdoors with a custom-built deck or porch, perfect for enjoying Virginia Beach's beautiful weather.",
+        "description": "Jolly Roger Custom Woodworking specializes in designing and building custom decks and porches that enhance your outdoor living experience. We understand that your deck or porch is an extension of your home, a place to relax, entertain, and enjoy the beautiful Virginia Beach weather. Whether you envision a sprawling deck for hosting gatherings or a cozy porch for enjoying your morning coffee, we'll work with you to create the perfect outdoor space.\n\nWe take into account the unique challenges of building in a coastal environment, such as salt air corrosion and hurricane risk. We use durable, weather-resistant materials and construction techniques that ensure your deck or porch will withstand the elements for years to come. We offer a variety of decking options, including pressure-treated lumber, composite decking, and exotic hardwoods, allowing you to choose the material that best suits your style and budget.\n\nFrom initial design to final construction, we handle every aspect of your deck or porch project with professionalism and expertise. We obtain all necessary permits, adhere to local building codes, and ensure that your project is completed safely and efficiently. Let Jolly Roger Custom Woodworking create an outdoor oasis where you can relax, entertain, and enjoy the beauty of Virginia Beach.",
+        "process": [
+          "Step 1: Site Assessment and Design – We evaluate your property and create a custom design that meets your needs and budget.",
+          "Step 2: Material Selection – We help you choose the perfect decking materials, railings, and accessories.",
+          "Step 3: Permitting – We obtain all necessary permits and ensure compliance with local building codes.",
+          "Step 4: Construction – Our skilled carpenters build your deck or porch to exacting standards."
+        ],
+        "benefits": [
+          "Increase your home's value",
+          "Expand your living space outdoors",
+          "Create a perfect space for entertaining",
+          "Enjoy the beautiful Virginia Beach weather"
+        ],
+        "faq": [
+          {
+            "question": "What types of decking materials do you offer?",
+            "answer": "We offer a variety of decking materials, including pressure-treated lumber, composite decking (Trex, TimberTech), and exotic hardwoods (Ipe, Mahogany)."
+          },
+          {
+            "question": "Do I need a permit to build a deck or porch?",
+            "answer": "Yes, in most cases, you will need a permit to build a deck or porch in Virginia Beach. We handle the permitting process for you."
+          },
+          {
+            "question": "How long does it take to build a deck or porch?",
+            "answer": "The timeline varies depending on the size and complexity of the project. We'll provide you with a detailed timeline during the consultation phase."
+          }
+        ]
+      },
+      {
+        "slug": "fence-installation-repair",
+        "name": "Fence Installation & Repair",
+        "shortDescription": "Protect your property and enhance its curb appeal with a professionally installed or repaired fence.",
+        "description": "Jolly Roger Custom Woodworking provides expert fence installation and repair services throughout Virginia Beach. We understand that a fence is more than just a boundary; it's an important element of your property's security, privacy, and aesthetic appeal. Whether you need a new fence installed or your existing fence repaired, we'll provide you with quality workmanship and exceptional service.\n\nWe offer a wide range of fencing options, including wood fences, vinyl fences, chain-link fences, and aluminum fences. We'll help you choose the right fence style and material to meet your specific needs and budget. We also offer custom fence designs to create a unique look for your property.\n\nOur experienced fence installers are skilled in all aspects of fence construction, from post setting to gate installation. We use only high-quality materials and proven techniques to ensure that your fence is built to last. We also provide fence repair services to address issues such as leaning posts, broken boards, and damaged gates. We understand the impact of Virginia Beach's weather on fences and use appropriate materials to minimize wear and tear.",
+        "process": [
+          "Step 1: Site Survey and Consultation – We assess your property and discuss your fencing needs and preferences.",
+          "Step 2: Material Selection – We help you choose the right fence style and material for your property.",
+          "Step 3: Installation – Our skilled installers build your fence to exacting standards.",
+          "Step 4: Cleanup – We remove all debris and leave your property clean and tidy."
+        ],
+        "benefits": [
+          "Enhance your property's security and privacy",
+          "Increase your property's curb appeal",
+          "Define your property boundaries",
+          "Protect your pets and children"
+        ],
+        "faq": [
+          {
+            "question": "What types of fences do you install?",
+            "answer": "We install a variety of fences, including wood fences, vinyl fences, chain-link fences, and aluminum fences."
+          },
+          {
+            "question": "How much does it cost to install a fence?",
+            "answer": "The cost of fence installation varies depending on the fence style, material, and length. We'll provide you with a free estimate."
+          },
+          {
+            "question": "Do you offer fence repair services?",
+            "answer": "Yes, we offer fence repair services to address issues such as leaning posts, broken boards, and damaged gates."
+          }
+        ]
+      },
+      {
+        "slug": "trim-and-molding-installation",
+        "name": "Trim & Molding Installation",
+        "shortDescription": "Add elegance and detail to your home with professionally installed trim and molding.",
+        "description": "Jolly Roger Custom Woodworking specializes in trim and molding installation that enhances the beauty and character of your home. We understand that trim and molding are the finishing touches that can transform a room from ordinary to extraordinary. Whether you're building a new home or renovating an existing one, we'll provide you with expert trim and molding installation services.\n\nWe offer a wide range of trim and molding options, including baseboards, crown molding, door casings, and window casings. We'll help you choose the right trim and molding styles to complement your home's architecture and your personal taste. We also offer custom trim and molding designs to create a unique look for your home.\n\nOur experienced trim and molding installers are skilled in all aspects of trim and molding installation, from precise cutting to seamless joining. We use only high-quality materials and proven techniques to ensure that your trim and molding is installed correctly and looks beautiful for years to come. We pay attention to detail, ensuring clean lines and perfect miters. Given Virginia Beach's humidity, we use materials and techniques to prevent warping and other moisture-related issues.",
+        "process": [
+          "Step 1: Consultation and Design – We discuss your trim and molding needs and preferences.",
+          "Step 2: Material Selection – We help you choose the right trim and molding styles for your home.",
+          "Step 3: Installation – Our skilled installers install your trim and molding with precision and care.",
+          "Step 4: Finishing – We caulk, sand, and paint your trim and molding for a perfect finish."
+        ],
+        "benefits": [
+          "Add elegance and detail to your home",
+          "Increase your home's value",
+          "Conceal imperfections and protect walls",
+          "Create a custom look that reflects your style"
+        ],
+        "faq": [
+          {
+            "question": "What types of trim and molding do you install?",
+            "answer": "We install a variety of trim and molding, including baseboards, crown molding, door casings, and window casings."
+          },
+          {
+            "question": "Can you match existing trim and molding?",
+            "answer": "Yes, we can match existing trim and molding styles to ensure a seamless look."
+          },
+          {
+            "question": "Do you offer painting services for trim and molding?",
+            "answer": "Yes, we offer painting services to finish your trim and molding for a perfect look."
+          }
+        ]
+      },
+      {
+        "slug": "custom-shelving",
+        "name": "Custom Shelving",
+        "shortDescription": "Maximize your storage and display space with custom shelving solutions tailored to your needs.",
+        "description": "Jolly Roger Custom Woodworking designs and builds custom shelving solutions that maximize your storage and display space while enhancing the aesthetic appeal of your home. We understand that shelving is more than just a functional element; it's an opportunity to showcase your personality and style. Whether you need shelves for your books, collectibles, or pantry items, we'll work with you to create custom shelving that meets your exact needs and preferences.\n\nWe offer a wide range of shelving options, including built-in shelves, floating shelves, and adjustable shelves. We'll help you choose the right shelving style and material to complement your home's architecture and your personal taste. We also offer custom shelving designs to create a unique look for your home.\n\nOur experienced carpenters are skilled in all aspects of shelving construction, from precise measurement to secure installation. We use only high-quality materials and proven techniques to ensure that your shelving is built to last. In Virginia Beach, where space can be limited, custom shelving can be a game changer.",
+        "process": [
+          "Step 1: Consultation and Design – We discuss your shelving needs and preferences.",
+          "Step 2: Material Selection – We help you choose the right shelving style and material.",
+          "Step 3: Construction – Our skilled carpenters build your shelving to exacting standards.",
+          "Step 4: Installation – We install your shelving securely and professionally."
+        ],
+        "benefits": [
+          "Maximize your storage and display space",
+          "Enhance your home's aesthetic appeal",
+          "Create a custom look that reflects your style",
+          "Organize your belongings efficiently"
+        ],
+        "faq": [
+          {
+            "question": "What types of shelving do you offer?",
+            "answer": "We offer a variety of shelving options, including built-in shelves, floating shelves, and adjustable shelves."
+          },
+          {
+            "question": "Can you build shelves to fit a specific space?",
+            "answer": "Yes, we specialize in building custom shelves to fit any space in your home."
+          },
+          {
+            "question": "What materials do you use for shelving?",
+            "answer": "We use a variety of materials, including wood, plywood, and metal."
+          }
+        ]
+      },
+      {
+        "slug": "door-installation-repair",
+        "name": "Door Installation & Repair",
+        "shortDescription": "Upgrade your home's security and style with professional door installation and repair services.",
+        "description": "Jolly Roger Custom Woodworking provides expert door installation and repair services throughout Virginia Beach. We understand that your doors are an important element of your home's security, energy efficiency, and aesthetic appeal. Whether you need a new door installed or your existing door repaired, we'll provide you with quality workmanship and exceptional service.\n\nWe offer a wide range of door options, including entry doors, interior doors, and patio doors. We'll help you choose the right door style and material to meet your specific needs and budget. We also offer custom door designs to create a unique look for your home. Given the coastal environment, we recommend impact-resistant doors for exterior applications.\n\nOur experienced door installers are skilled in all aspects of door installation, from frame preparation to hardware installation. We use only high-quality materials and proven techniques to ensure that your door is installed correctly and functions smoothly. We also provide door repair services to address issues such as sticking doors, damaged frames, and broken hardware.",
+        "process": [
+          "Step 1: Consultation and Selection – We discuss your door needs and help you choose the right door style and material.",
+          "Step 2: Measurement and Preparation – We accurately measure the door opening and prepare the frame for installation.",
+          "Step 3: Installation – Our skilled installers install your door with precision and care.",
+          "Step 4: Finishing – We ensure that your door is properly aligned, sealed, and finished."
+        ],
+        "benefits": [
+          "Enhance your home's security and energy efficiency",
+          "Increase your home's curb appeal",
+          "Improve the functionality of your doors",
+          "Reduce drafts and noise"
+        ],
+        "faq": [
+          {
+            "question": "What types of doors do you install?",
+            "answer": "We install a variety of doors, including entry doors, interior doors, and patio doors."
+          },
+          {
+            "question": "How much does it cost to install a door?",
+            "answer": "The cost of door installation varies depending on the door style, material, and complexity of the installation. We'll provide you with a free estimate."
+          },
+          {
+            "question": "Do you offer door repair services?",
+            "answer": "Yes, we offer door repair services to address issues such as sticking doors, damaged frames, and broken hardware."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Virginia Beach",
+        "slug": "virginia-beach-va",
+        "state": "VA",
+        "content": "Jolly Roger Custom Woodworking is proud to serve the vibrant community of Virginia Beach. We bring our expertise in crafting bespoke wood solutions to homes and businesses across the city, from the oceanfront to the inland neighborhoods. Whether you envision custom cabinetry for your kitchen, a handcrafted dining table for your family, or unique architectural millwork for your commercial space, we are dedicated to exceeding your expectations.\n\nOur commitment to quality craftsmanship and personalized service sets us apart. We understand the unique aesthetic preferences and architectural styles prevalent in Virginia Beach, and we tailor our designs to seamlessly integrate with your existing space. From initial consultation to final installation, we work closely with you to ensure your vision becomes a reality. We use only the finest materials and time-tested techniques to create durable, beautiful pieces that will last for generations.",
+        "localContext": "Virginia Beach, a coastal city known for its beautiful beaches and vibrant community, is a wonderful place to live and work. We are happy to provide custom woodworking services to residents and business owners alike.",
+        "nearbyAreas": [
+          "Norfolk",
+          "Chesapeake",
+          "Suffolk"
+        ]
+      },
+      {
+        "city": "Norfolk",
+        "slug": "norfolk-va",
+        "state": "VA",
+        "content": "Jolly Roger Custom Woodworking extends its custom woodworking services to the historic city of Norfolk, VA. We cater to the diverse needs of Norfolk residents and businesses, offering everything from custom-built furniture and cabinetry to intricate architectural millwork and restoration services. Whether you're looking to enhance your home's interior or create a unique statement piece for your business, we have the skills and expertise to bring your vision to life.\n\nNorfolk's rich history and diverse architecture inspire our designs. We work closely with our clients to understand their individual needs and preferences, ensuring that every piece we create is a perfect fit for their space. Our commitment to quality craftsmanship and attention to detail ensures that our creations are not only beautiful but also durable and long-lasting. We use only the finest materials and time-tested techniques to deliver exceptional results.",
+        "localContext": "Norfolk, a city rich in naval history and cultural attractions, is a dynamic place with diverse architectural styles. We are happy to serve the residents and businesses of Norfolk.",
+        "nearbyAreas": [
+          "Portsmouth",
+          "Chesapeake",
+          "Virginia Beach"
+        ]
+      },
+      {
+        "city": "Chesapeake",
+        "slug": "chesapeake-va",
+        "state": "VA",
+        "content": "Jolly Roger Custom Woodworking proudly serves the growing community of Chesapeake, VA. We offer a wide range of custom woodworking services to homeowners and businesses throughout the city. From custom kitchen cabinets and bathroom vanities to built-in bookcases and entertainment centers, we can create beautiful and functional pieces that enhance your living or working space.\n\nWe understand that every client has unique needs and preferences. That's why we take the time to listen carefully to your ideas and work closely with you throughout the design and construction process. Our goal is to create custom woodworking solutions that perfectly reflect your personal style and meet your specific requirements. We are committed to providing exceptional customer service and delivering high-quality craftsmanship that exceeds your expectations.",
+        "localContext": "Chesapeake, a growing city with a blend of urban and rural landscapes, is a wonderful place to call home. We are pleased to offer our custom woodworking services to the residents and businesses of Chesapeake.",
+        "nearbyAreas": [
+          "Virginia Beach",
+          "Norfolk",
+          "Suffolk"
+        ]
+      },
+      {
+        "city": "Suffolk",
+        "slug": "suffolk-va",
+        "state": "VA",
+        "content": "Jolly Roger Custom Woodworking is pleased to offer its custom woodworking services to the residents and businesses of Suffolk, VA. We specialize in creating handcrafted pieces that add beauty, functionality, and value to your property. Whether you're looking for custom furniture, cabinetry, or architectural millwork, we have the skills and experience to bring your vision to life.\n\nWe are committed to providing our clients with the highest level of quality and service. We use only the finest materials and time-tested techniques to ensure that our creations are not only beautiful but also durable and long-lasting. We work closely with you throughout the entire process, from initial design to final installation, to ensure that you are completely satisfied with the results.",
+        "localContext": "Suffolk, a city with a rich agricultural history and a growing residential community, is a great place to live and work. We are dedicated to providing exceptional custom woodworking services to the people of Suffolk.",
+        "nearbyAreas": [
+          "Chesapeake",
+          "Portsmouth",
+          "Franklin"
+        ]
+      },
+      {
+        "city": "Portsmouth",
+        "slug": "portsmouth-va",
+        "state": "VA",
+        "content": "Jolly Roger Custom Woodworking is delighted to extend our custom woodworking services to the historic city of Portsmouth, VA. We offer a comprehensive range of services to homeowners and businesses alike, from custom-designed furniture and cabinetry to intricate architectural millwork and restoration projects. We are dedicated to providing exceptional craftsmanship and personalized service to every client.\n\nOur team understands the unique architectural heritage of Portsmouth, and we are committed to preserving and enhancing the beauty of its historic buildings. Whether you're looking to restore original woodwork or create new pieces that complement your home's existing style, we have the expertise to deliver outstanding results. We use only the finest materials and time-tested techniques to ensure that our creations are both beautiful and durable.",
+        "localContext": "Portsmouth, a city steeped in maritime history and boasting a charming historic district, is a vibrant community. We are proud to offer our custom woodworking services to the residents and businesses of Portsmouth.",
+        "nearbyAreas": [
+          "Norfolk",
+          "Chesapeake",
+          "Suffolk"
+        ]
+      },
+      {
+        "city": "Hampton",
+        "slug": "hampton-va",
+        "state": "VA",
+        "content": "Jolly Roger Custom Woodworking happily serves the city of Hampton, VA, providing custom woodworking solutions for homes and businesses. We specialize in creating unique, handcrafted pieces that enhance the beauty and functionality of your space. From custom kitchen cabinets to built-in entertainment centers, we can bring your woodworking dreams to life.\n\nWe believe in working closely with our clients to understand their individual needs and preferences. Our team is committed to using only the highest quality materials and craftsmanship to ensure that your custom woodworking project is a lasting investment. Let us help you create a space that is both beautiful and functional with our custom woodworking services in Hampton.",
+        "localContext": "Hampton, a city with a rich history and a vibrant present, offers us a wonderful opportunity to provide custom woodworking services to its residents and business owners.",
+        "nearbyAreas": [
+          "Newport News",
+          "Poquoson",
+          "Yorktown"
+        ]
+      },
+      {
+        "city": "Newport News",
+        "slug": "newport-news-va",
+        "state": "VA",
+        "content": "Jolly Roger Custom Woodworking is proud to offer custom woodworking services to the residents and businesses of Newport News, VA. We provide tailored solutions for all your woodworking needs, whether it's crafting custom furniture, designing and installing cabinetry, or creating unique architectural details.\n\nOur commitment to quality and customer satisfaction is unwavering. We understand that every project is unique, and we work closely with our clients to ensure their vision is realized. Using premium materials and time-honored techniques, we create woodworking masterpieces that stand the test of time. We welcome the opportunity to enhance your space with our custom woodworking expertise in Newport News.",
+        "localContext": "Newport News, a city with a strong maritime heritage and a thriving community, is a great place to live and work. We're happy to offer our custom woodworking services to its residents and businesses.",
+        "nearbyAreas": [
+          "Hampton",
+          "Yorktown",
+          "Poquoson"
+        ]
+      },
+      {
+        "city": "Poquoson",
+        "slug": "poquoson-va",
+        "state": "VA",
+        "content": "Jolly Roger Custom Woodworking is delighted to provide custom woodworking services to the community of Poquoson, VA. We specialize in creating bespoke woodworking solutions for homeowners and businesses, offering everything from custom furniture and cabinetry to intricate architectural millwork.\n\nWe take pride in our attention to detail and commitment to craftsmanship. Our team works closely with each client to understand their specific needs and preferences, ensuring that every project is a perfect reflection of their vision. Using only the finest materials and time-tested techniques, we create woodworking masterpieces that enhance the beauty and value of your space. Let us bring your woodworking dreams to life in Poquoson.",
+        "localContext": "Poquoson, a charming coastal community with a strong sense of local pride, is a wonderful place to call home. We are pleased to offer our custom woodworking services to its residents.",
+        "nearbyAreas": [
+          "Hampton",
+          "Yorktown",
+          "Seaford"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Custom Cabinetry",
+        "text": "Jolly Roger Custom Woodworking did an amazing job with our kitchen cabinets! The craftsmanship is outstanding, and they were incredibly helpful in the design process. Our new kitchen is the envy of the neighborhood!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "John B.",
+        "rating": 4,
+        "service": "Deck Construction",
+        "text": "We hired Jolly Roger to build a new deck, and we're very happy with the result. They were professional, efficient, and the deck is beautifully built. There was a slight delay due to weather, but they communicated clearly throughout the process.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Emily K.",
+        "rating": 5,
+        "service": "Fence Installation",
+        "text": "Excellent service from start to finish! Jolly Roger installed a new fence in our backyard, and it looks fantastic. The crew was friendly and professional, and they cleaned up everything perfectly. Highly recommend!",
+        "date": "2024-09-01"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Trim & Molding Installation",
+        "text": "Jolly Roger transformed our living room with new trim and molding. The attention to detail was incredible, and the finished product is stunning. It's made a huge difference in the look and feel of our home.",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 4,
+        "service": "Custom Shelving",
+        "text": "We needed custom shelving for our home office, and Jolly Roger delivered exactly what we wanted. The shelves are sturdy, well-built, and perfectly fit our space. The only reason for 4 stars is that the initial consultation took a bit longer than expected.",
+        "date": "2024-12-05"
+      },
+      {
+        "name": "Mike S.",
+        "rating": 5,
+        "service": "Door Repair",
+        "text": "Our front door was sticking and difficult to close. Jolly Roger came out quickly and repaired it perfectly. They were professional, efficient, and the price was very reasonable. Great service!",
+        "date": "2025-02-28"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Jolly Roger Woodworking | Custom Carpenter",
+        "description": "Virginia Beach's top choice for custom carpentry, decks, fencing, and more. Free quotes. Locally owned and operated."
+      },
+      "about": {
+        "title": "About Jolly Roger Woodworking",
+        "description": "Learn about Jolly Roger Custom Woodworking's commitment to quality craftsmanship and community in Virginia Beach, VA."
+      },
+      "services": {
+        "title": "Carpentry Services | Virginia Beach",
+        "description": "Jolly Roger Custom Woodworking offers a wide range of carpentry services in Virginia Beach. Custom cabinets, decks, fences & more!"
+      },
+      "contact": {
+        "title": "Contact Jolly Roger Woodworking",
+        "description": "Contact Jolly Roger Custom Woodworking for a free quote on your next carpentry project in Virginia Beach, VA."
+      },
+      "reviews": {
+        "title": "Jolly Roger Woodworking Reviews",
+        "description": "Read what our satisfied clients are saying about Jolly Roger Custom Woodworking's services in Virginia Beach, VA."
+      },
+      "service-areas": {
+        "title": "Service Areas | Jolly Roger Woodworking",
+        "description": "Jolly Roger Custom Woodworking proudly serves Virginia Beach and surrounding areas with expert carpentry services."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "custom-cabinetry": "/images/service-custom-cabinetry.webp",
+      "deck-and-porch-construction": "/images/service-deck-and-porch-construction.webp",
+      "fence-installation-repair": "/images/service-fence-installation-repair.webp",
+      "trim-and-molding-installation": "/images/service-trim-and-molding-installation.webp",
+      "custom-shelving": "/images/service-custom-shelving.webp",
+      "door-installation-repair": "/images/service-door-installation-repair.webp"
+    },
+    "servicesResponsive": {
+      "custom-cabinetry": {
+        "src": "/images/service-custom-cabinetry.webp",
+        "srcset": "/images/service-custom-cabinetry-400w.webp 400w, /images/service-custom-cabinetry-800w.webp 800w, /images/service-custom-cabinetry-1200w.webp 1200w, /images/service-custom-cabinetry.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-and-porch-construction": {
+        "src": "/images/service-deck-and-porch-construction.webp",
+        "srcset": "/images/service-deck-and-porch-construction-400w.webp 400w, /images/service-deck-and-porch-construction-800w.webp 800w, /images/service-deck-and-porch-construction-1200w.webp 1200w, /images/service-deck-and-porch-construction.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-installation-repair": {
+        "src": "/images/service-fence-installation-repair.webp",
+        "srcset": "/images/service-fence-installation-repair-400w.webp 400w, /images/service-fence-installation-repair-800w.webp 800w, /images/service-fence-installation-repair-1200w.webp 1200w, /images/service-fence-installation-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "trim-and-molding-installation": {
+        "src": "/images/service-trim-and-molding-installation.webp",
+        "srcset": "/images/service-trim-and-molding-installation-400w.webp 400w, /images/service-trim-and-molding-installation-800w.webp 800w, /images/service-trim-and-molding-installation-1200w.webp 1200w, /images/service-trim-and-molding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "custom-shelving": {
+        "src": "/images/service-custom-shelving.webp",
+        "srcset": "/images/service-custom-shelving-400w.webp 400w, /images/service-custom-shelving-800w.webp 800w, /images/service-custom-shelving-1200w.webp 1200w, /images/service-custom-shelving.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "door-installation-repair": {
+        "src": "/images/service-door-installation-repair.webp",
+        "srcset": "/images/service-door-installation-repair-400w.webp 400w, /images/service-door-installation-repair-800w.webp 800w, /images/service-door-installation-repair-1200w.webp 1200w, /images/service-door-installation-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
